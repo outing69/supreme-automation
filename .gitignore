@@ -25,3 +25,12 @@ config.py
 # OS
 .DS_Store
 Thumbs.db
+
+# Onboarding outputs (sensitive data)
+output/secure_credentials.csv
+output/onboarding_report.html
+output/failed_onboardings.csv
+onboarding.log
+
+# Input data (may contain PII)
+input/users_to_onboard.csv

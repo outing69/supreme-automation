@@ -1,0 +1,3 @@
+first_name,last_name,display_name,user_principal_name,department,job_title,manager_email,license_type,groups,mailbox_delegation
+IntuneTest,User001,IntuneTest User001,intunetest.user001@SolidSupports.onmicrosoft.com,IT,Device Manager,,INTUNE,,
+NoLicTest,User002,NoLicTest User002,nolictest.user002@SolidSupports.onmicrosoft.com,IT,Guest Account,,NONE,,

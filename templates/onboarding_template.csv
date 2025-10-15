@@ -1,0 +1,6 @@
+first_name,last_name,display_name,user_principal_name,department,job_title,manager_email,license_type,groups,mailbox_delegation
+Jan,de Vries,Jan de Vries,jan.devries@solidsupport.nl,IT,System Administrator,manager@solidsupport.nl,E5,IT-Admins;All-Staff,
+Lisa,van Dam,Lisa van Dam,lisa.vandam@solidsupport.nl,Sales,Account Manager,sales.manager@solidsupport.nl,E3,Sales-Team;All-Staff,
+Pieter,Bakker,Pieter Bakker,pieter.bakker@solidsupport.nl,Finance,Financial Analyst,cfo@solidsupport.nl,E3,Finance-Team;All-Staff,finance.admin@solidsupport.nl
+Sophie,Jansen,Sophie Jansen,sophie.jansen@solidsupport.nl,IT,Mobile Device Manager,jan.devries@solidsupport.nl,INTUNE,IT-Admins,
+Guest,User,External Guest,guest.user@solidsupport.nl,External,Consultant,,NONE,,

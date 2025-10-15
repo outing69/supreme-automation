@@ -1,0 +1,2 @@
+first_name,last_name,display_name,user_principal_name,department,job_title,manager_email,license_type,groups,mailbox_delegation
+AutoTest,User001,AutoTest User001,autotest.user001@SolidSupports.onmicrosoft.com,IT,Test Account,Alex@SolidSupports.onmicrosoft.com,E3,,
