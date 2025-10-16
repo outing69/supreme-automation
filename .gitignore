@@ -15,6 +15,7 @@ secrets.py
 credentials.json
 *_secret.py
 config.py
+monitor_config.py
 
 # IDE
 .vscode/
@@ -25,3 +26,17 @@ config.py
 # OS
 .DS_Store
 Thumbs.db
+
+# M365 Onboarding outputs (sensitive data)
+output/secure_credentials.csv
+output/onboarding_report.html
+output/failed_onboardings.csv
+onboarding.log
+
+# Azure monitoring outputs
+output/azure_health_report.html
+azure_monitoring.log
+
+# Input data (may contain PII)
+input/users_to_onboard.csv
+src/azure_monitoring/monitor_config.py
